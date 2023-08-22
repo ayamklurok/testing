@@ -1,2 +1,2 @@
 # testing
-untuk mengetes saja
+untuk mengetes saja ya
