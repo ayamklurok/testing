@@ -3,6 +3,6 @@
 <p>okelah<br /> kalau begitu
 <p>dua tiga empat lima</p>
 <p>enam tujuh delapan sembilan</p>
-<p>satu</p>
-<p>dua</p>
-tiga<br />empat<br />lima
+satu<br/>
+dua<br/>
+tiga<br/>empat<br/>lima
