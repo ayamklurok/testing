@@ -2,9 +2,9 @@
 <h2>untuk <b>mengetes</b> saja ya</h2>
 <p>okelah<br /> kalau begitu
 <p>dua tiga empat lima<br/>
-enam tujuh delapan sembilan</p>
-0<br/>
-1<br/>
+enam tujuh delapan sembilan<p/>
+0
+<br/>1
 2<br/>
 3<br/>4<br/>5
 <br/>6
